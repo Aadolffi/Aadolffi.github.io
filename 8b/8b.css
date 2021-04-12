@@ -1,5 +1,9 @@
 
 
+.bg-dark.scrolled {
+    background: black !important;
+}
+
 .navbar {
     background-color: black;
     text-align: center;
@@ -34,7 +38,7 @@ h1 {
 
 body    {
     background-image: url(viini.jpg) ;
-  
+    overflow-x: hidden;
 }
 
 #väri   {
