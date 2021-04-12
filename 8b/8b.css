@@ -66,6 +66,11 @@ body    {
     font-style: oblique;
 }
 
+#x {
+    overflow-x: hidden;
+}
+
+
 .linkki {
     color: black;
    display: flex;
