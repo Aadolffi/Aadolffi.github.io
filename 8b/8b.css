@@ -20,6 +20,13 @@ h1 {
     padding-bottom: 2%;
 }
 
+#t { 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50.8%;
+}
+
 #alalinkki  {
     text-align: center;
 }
